@@ -17,7 +17,7 @@ This script simulates that appearance from a regular image, producing a gold-tin
 |------|--------------|
 | `lightscribe.jpg` | Base artwork (the image to appear on the disc) |
 | `middle.png` | Center hub (real scan of a Lightscribe disc center|
-| `lightscribe_ebay.jpg` | Final generated preview |
+| `lightscribe_ebay.jpg` | Final generated preview (see picture below) |
 
 <img src="lightscribe_ebay.jpg" alt="Lightscribe preview" width="400">
 
@@ -27,6 +27,3 @@ This script simulates that appearance from a regular image, producing a gold-tin
 ## ⚙️ Requirements
 
 Python 3.10 or later with Pillow and NumPy:
-
-```bash
-pip install pillow numpy
