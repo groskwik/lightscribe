@@ -19,7 +19,8 @@ This script simulates that appearance from a regular image, producing a gold-tin
 | `middle.png` | Center hub (real scan of a Lightscribe disc center|
 | `lightscribe_ebay.jpg` | Final generated preview |
 
-![lightscribe_ebay.jpg](lightscribe_ebay.jpg)
+<img src="lightscribe_ebay.jpg" alt="Lightscribe preview" width="400">
+
 
 ---
 
