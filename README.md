@@ -10,20 +10,3 @@ Lightscribe discs are optical media (CD/DVD) that use a laser to etch grayscale 
 This script simulates that appearance from a regular image, producing a gold-tinted, etched-looking output suitable for product listings or previews.
 
 ---
-
-## 📂 Files
-
-| File | Description |
-|------|--------------|
-| `lightscribe.jpg` | Base artwork (the image to appear on the disc) |
-| `middle.png` | Center hub (real scan of a Lightscribe disc center|
-| `lightscribe_ebay.jpg` | Final generated preview (see picture below) |
-
-<img src="lightscribe_ebay.jpg" alt="Lightscribe preview" width="400">
-
-
----
-
-## ⚙️ Requirements
-
-Python 3.10 or later with Pillow and NumPy:
